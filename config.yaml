@@ -1,0 +1,12 @@
+# Telegram API
+telegram:
+  api_id: YOUR_API_ID
+  api_hash: YOUR_API_HASH
+
+# Genius API
+genius:
+  api_token: YOUR_GENIUS_API_TOKEN
+
+# Download Folder
+paths:
+  final_folder: ./music
